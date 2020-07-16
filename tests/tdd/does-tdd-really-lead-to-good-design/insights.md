@@ -25,3 +25,7 @@
     - Review intentions.
     - No duplication.
     - Fewer elements.
+
+- Associations:
+    - Composition
+    - Aggregation
