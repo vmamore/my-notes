@@ -10,3 +10,6 @@ This includes foundations and infrastructure services (on premises/cloud or secu
 - Is about understanding what you need to build.
 Creating a vision for building it and making appropiate design decisions.
 - Requirements -> Drive Architecture
+
+
+#### Architecture, regardless of the domain, is about structure and vision.
